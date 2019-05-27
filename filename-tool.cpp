@@ -21,7 +21,6 @@ char * del(char i1[],char i2[])
 	//printf("%s", tmp);
 	return tmp;
 }
-
 char * rep(char i1[], char i2[], char i3[])
 {
 
