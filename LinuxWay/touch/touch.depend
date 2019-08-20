@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566288964 source:g:\cb\tou\touch.c
+	<windows.h>
+	<stdio.h>
+
